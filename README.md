@@ -37,3 +37,7 @@ To run the app, make sure you have the following:
    ```bash
    git clone https://github.com/sachnaror/AI-Customer-Support-Analyzer-NLP.git
    cd AI-Customer-Support-Analyzer-NLP
+
+
+![AI-Powered Customer Support Analyzer](./insights.png)
+<img src="./insights.png" alt="AI-Powered Customer Support Analyzer" width="550" height="550">
