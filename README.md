@@ -40,4 +40,4 @@ To run the app, make sure you have the following:
 
 
 ![AI-Powered Customer Support Analyzer](./insights.png)
-<img src="./insights.png" alt="AI-Powered Customer Support Analyzer" width="550" height="550">
+<img src="./insights.png" alt="AI-Powered Customer Support Analyzer" width="450" height="450">
