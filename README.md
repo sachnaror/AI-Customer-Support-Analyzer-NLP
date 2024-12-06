@@ -39,5 +39,4 @@ To run the app, make sure you have the following:
    cd AI-Customer-Support-Analyzer-NLP
 
 
-![AI-Powered Customer Support Analyzer](./insights.png)
 <img src="./insights.png" alt="AI-Powered Customer Support Analyzer" width="450" height="450">
