@@ -1,5 +1,9 @@
 # 🧠 One AI-Powered Customer Support Analyzer 🚀
 
+## Detailed overview :
+
+https://medium.com/@schnaror/unlock-business-value-hidden-in-customer-support-conversations-with-ai-1d868330327c
+
 Welcome to the **One AI-Powered Customer Support Analyzer**!
 Transform boring customer support data into **actionable insights** with the power of **AI**, **Streamlit**, and a sprinkle of Python magic.
 Let’s make analyzing conversations **efficient, fun, and smart**—because why should data be dull?
